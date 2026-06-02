@@ -1,0 +1,2 @@
+Hi,
+This repo is created to maintain the AI/ML Course related code and documents that learned from iiiTH 
